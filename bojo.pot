@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bojo Localization-pot\n"
+"POT-Creation-Date: 2008-02-27 00:25-400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Bojo"
+msgstr ""
+
+msgid "Bojo Options"
+msgstr ""
+
+msgid "Name of category: "
+msgstr ""
+
+msgid "Number of messages: "
+msgstr ""
+
+msgid "Bojo Title: "
+msgstr ""
+
+msgid "Recent Bojos"
+msgstr ""
